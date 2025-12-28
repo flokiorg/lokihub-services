@@ -1,0 +1,9 @@
+{
+  "hub": {
+    "latestVersion": "v1.0.0",
+    "latestReleaseNotes": "Initial release of Lokihub Services."
+  },
+  "status": "operational",
+  "healthy": true,
+  "incidents": []
+}

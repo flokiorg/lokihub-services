@@ -1,0 +1,25 @@
+{
+  "flokicoin_explorer": [
+    {
+      "name": "Flokichain.info",
+      "value": "https://flokichain.info/api",
+      "description": "Flokicoin block explorer"
+    }
+  ],
+  "swap_service": [
+    {
+      "name": "Lightz.app",
+      "value": "https://api.lightz.app",
+      "description": "Fast and reliable swaps"
+    }
+  ],
+  "nostr_relay": [
+    {
+      "name": "Ohstr Relay",
+      "value": "wss://relay.ohstr.com/v1",
+      "description": "High availability relay"
+    }
+  ],
+  "messageboard_nwc": [
+  ]
+}
