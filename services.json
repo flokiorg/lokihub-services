@@ -2,7 +2,7 @@
   "flokicoin_explorer": [
     {
       "name": "Flokichain.info",
-      "value": "https://flokichain.info/api",
+      "value": "https://flokichain.info",
       "description": "Flokicoin block explorer"
     }
   ],
@@ -20,6 +20,5 @@
       "description": "High availability relay"
     }
   ],
-  "messageboard_nwc": [
-  ]
+  "messageboard_nwc": []
 }
