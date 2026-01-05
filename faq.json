@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the Flokicoin Lightning Network?",
+    "answer": "The Flokicoin Lightning Network is a layer-2 payment protocol built on top of the Flokicoin blockchain (Lokichain). It enables instant, low-cost transactions between participating nodes. The next web needs a better experience than waiting for mining and confirmations which slows engagement. [Read the Web of Fun (WoF) Paper](https://docs.flokicoin.org/wof)"
+  },
+  {
+    "question": "What is a Wallet vs. Sub-wallet?",
+    "answer": "Your main **Wallet** holds your primary funds and manages your Lightning channels. It is the administrative center of your Hub.\n\nA **Sub-wallet** is a separate isolated balance created within your Hub. You can use sub-wallets to organize your spending (e.g., for different apps) or create accounts for friends and family. Sub-wallets share your node's liquidity but have their own credentials."
+  },
+  {
+    "question": "What are Channels?",
+    "answer": "Channels are the connections between nodes on the Lightning Network. To send or receive payments, you need to have at least one open channel with another node. Think of channels as pipes that allow liquidity (money) to flow between you and the rest of the network."
+  },
+  {
+    "question": "What is Inbound and Outbound Liquidity?",
+    "answer": "**Outbound Liquidity** is the amount of Flokicoin you can send. This is the balance you own in your channels.\n\n**Inbound Liquidity** is the amount of Flokicoin you can receive. This represents the empty space in your channels (funds held by your channel partner). To receive payments, you must have sufficient inbound liquidity."
+  },
+  {
+    "question": "Can I send and receive on-chain Flokicoin?",
+    "answer": "Yes, your Hub supports on-chain transactions. You can access your on-chain wallet under the **Node** menu. This is where your on-chain balance is held, which is used for opening channels and managing liquidity. Note that this is separate from your Lightning wallet balance."
+  },
+  {
+    "question": "How do I get started?",
+    "answer": "1. Deposit on-chain Flokicoin to your wallet via the **Receive** screen.\n2. Go to the **Node** section to open a channel. You can use the \"Auto Channel\" feature for an easy setup.\n3. Once your channel is active, you can send and receive Lightning payments instantly.\n4. Connect apps or create sub-wallets to make the most of your Lokihub."
+  }
+]
