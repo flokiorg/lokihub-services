@@ -6,13 +6,7 @@
       "description": "Flokicoin block explorer"
     }
   ],
-  "swap_service": [
-    {
-      "name": "Lightz.app",
-      "value": "https://api.lightz.app",
-      "description": "Fast and reliable swaps"
-    }
-  ],
+  "swap_service": [],
   "nostr_relay": [
     {
       "name": "Ohstr Relay",
