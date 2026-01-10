@@ -4,6 +4,11 @@
       "name": "Flokichain.info",
       "value": "https://flokichain.info",
       "description": "Flokicoin block explorer"
+    },
+    {
+      "name": "Lokichain.info",
+      "value": "https://lokichain.info",
+      "description": "Flokicoin Space - Your Gateway to Explore Lokichain"
     }
   ],
   "swap_service": [],
