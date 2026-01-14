@@ -18,7 +18,13 @@
       "description": "High availability relay"
     }
   ],
-  "lsps": [],
+  "lsps": [
+    {
+      "name": "Flowgate",
+      "uri": "03f9c2b19d0f98217d7a89d45bacf48fc62e0b8643bda067dfd013ae5130da812f@67.217.60.92:5521",
+      "description": "Provide JIT channels & inbound liquidity"
+    }
+  ],
   "swap_service": [],
   "messageboard_nwc": []
 }
