@@ -11,7 +11,6 @@
       "description": "Flokicoin Space - Your Gateway to Explore Lokichain"
     }
   ],
-  "swap_service": [],
   "nostr_relay": [
     {
       "name": "Ohstr Relay",
@@ -19,5 +18,7 @@
       "description": "High availability relay"
     }
   ],
+  "lsps": [],
+  "swap_service": [],
   "messageboard_nwc": []
 }

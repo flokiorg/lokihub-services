@@ -12,3 +12,17 @@ This repository hosts static configuration and discovery files used by [Lokihub]
 ## Usage
 
 Lokihub fetches these files to provide up-to-date defaults and service options to users tailored for the Flokicoin ecosystem.
+
+## Usage
+
+### Adding an LSP
+
+To add a Lightning Service Provider (LSP) to `services.json`, add an entry to the `lsp` array with the following structure:
+
+```json
+{
+  "name": "My LSP",
+  "uri": "pubkey@host:port",
+  "description": "Supports JIT Channels & Inbound Liquidity"
+}
+```
