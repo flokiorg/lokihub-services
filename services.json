@@ -2,26 +2,27 @@
   "flokicoin_explorer": [
     {
       "name": "Flokichain.info",
-      "value": "https://flokichain.info",
+      "url": "https://flokichain.info",
       "description": "Flokicoin block explorer"
     },
     {
       "name": "Lokichain.info",
-      "value": "https://lokichain.info",
+      "url": "https://lokichain.info",
       "description": "Flokicoin Space - Your Gateway to Explore Lokichain"
     }
   ],
   "nostr_relay": [
     {
       "name": "Ohstr Relay",
-      "value": "wss://relay.ohstr.com/v1",
+      "url": "wss://relay.ohstr.com/v1",
       "description": "High availability relay"
     }
   ],
   "lsps": [
     {
       "name": "Flowgate",
-      "uri": "03f9c2b19d0f98217d7a89d45bacf48fc62e0b8643bda067dfd013ae5130da812f@67.217.60.92:5521",
+      "connection": "03f9c2b19d0f98217d7a89d45bacf48fc62e0b8643bda067dfd013ae5130da812f@67.217.60.92:5521",
+      "url": "https://flowgate.to",
       "description": "Provide JIT channels & inbound liquidity"
     }
   ],
